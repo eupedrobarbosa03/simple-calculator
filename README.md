@@ -1,26 +1,24 @@
-# 🧮 Calculadora Web
+# 🧮 Simple Calculator
 
-Uma calculadora simples feita com **JavaScript puro**, manipulando o DOM com classe `Calculator`, validando entradas e utilizando `eval` com segurança para expressões matemáticas!
+Uma calculadora feita com **JavaScript puro**, manipulando o DOM com classe `Calculator`, validando entradas e utilizando `eval` de forma controlada para resolver expressões matemáticas básicas!
+
+🔗 Acesse a calculadora online:  
+👉 [Clique aqui para testar](https://eupedrobarbosa03.github.io/simple-calculator/)
 
 ---
 
 ## 🚀 Funcionalidades
 
 - ✅ Adição, subtração, multiplicação e divisão
-- ✅ Validação de operadores e entradas
-- ✅ Exibição do resultado na tela
-- ✅ Botão de limpar/resetar
-- ✅ Estilização com HTML e CSS
-- ✅ Código limpo e orientado a objetos (POO)
+- ✅ Validação de operadores e entradas inválidas
+- ✅ Exibição do resultado em tempo real
+- ✅ Botão para limpar/resetar a operação
+- ✅ Interface limpa com JavaScript orientado a objetos (POO)
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-<div align="left">
-  HTML5 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"/>
-  CSS3 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"/>
-  JS <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="20" height="20"/>
-</div>
-
----
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)
