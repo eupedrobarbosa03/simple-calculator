@@ -22,5 +22,3 @@ Uma calculadora simples feita com **JavaScript puro**, manipulando o DOM com cla
 - JavaScript (Vanilla)
 
 ---
-## 📂 Estrutura do Projeto
-
