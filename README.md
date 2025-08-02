@@ -18,9 +18,9 @@ Uma calculadora simples feita com **JavaScript puro**, manipulando o DOM com cla
 ## 🛠️ Tecnologias Utilizadas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="20" height="20"/>
+  HTML5 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"/>
+  CSS3 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"/>
+  JS <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="20" height="20"/>
 </div>
 
 ---
